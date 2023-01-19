@@ -1,7 +1,7 @@
 # CDGCM: A Cheap Dynamic Gesture Controled Video Framework
 
 ## What's CDGCV
-  CDGCV is a cheap dynamic-gesture-controled-video framework. We provide several reasonable models writen in pytorch, as well as their training code. You can conveniently download them for your own projects or just to enjoy our application.
+  CDGCV is a cheap dynamic-gesture-controled-video framework. We provide several reasonable models writen in pytorch and pillow, as well as their training code. You can conveniently download them for your own projects or just to enjoy our application.
 
 ## What're the models used to classify gestures
 * ResNet-LSTM
