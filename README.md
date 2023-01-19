@@ -22,7 +22,7 @@
 * Adapting tiny data format, using smaller, fewer, grayer images to discribe a gesture-video (Although we may loss a little accuracy)
 * Adapting cheap computations like face-recognization to determine whether the classifier is to be run
 
-## what're going to be updated sooner
+## What're going to be updated sooner
 * The working code to control a video player online
 * Neater project format
 * Pretrained parameters
